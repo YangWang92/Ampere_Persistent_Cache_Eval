@@ -26,6 +26,8 @@ Warning: All tests do not lock core frequency and memory frequency.
 | 50 	| 0 	| 81.65992 	|
 | 60 	| 0 	| 85.687294 	|
 
+### Enable Persistant Cache
+
 | Freq Size (Byte)	| Persistant   Cache Size (Byte)	| Time (ms) 	| Acceleration   Ratio 	|
 |:-:	|:-:	|:-:	|:-:	|
 | 10 	| 10 	| 32.310387 	| 1.241146415 	|
