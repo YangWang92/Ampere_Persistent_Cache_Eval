@@ -17,7 +17,7 @@ Warning: All tests do not lock core frequency and memory frequency.
 
 ### Baseline
 
-| Freq Size (Byte)	| Persistant   Cache Size (Byte)	| Time (ms) 	|
+| Freq Size (MByte)	| Persistant   Cache Size (MByte)	| Time (ms) 	|
 |:-:	|:-:	|:-:	|
 | 10 	| 0 	| 40.101921 	|
 | 20 	| 0 	| 54.422207 	|
@@ -28,7 +28,7 @@ Warning: All tests do not lock core frequency and memory frequency.
 
 ### Enable Persistant Cache
 
-| Freq Size (Byte)	| Persistant   Cache Size (Byte)	| Time (ms) 	| Acceleration   Ratio 	|
+| Freq Size (MByte)	| Persistant   Cache Size (MByte)	| Time (ms) 	| Acceleration   Ratio 	|
 |:-:	|:-:	|:-:	|:-:	|
 | 10 	| 10 	| 32.310387 	| 1.241146415 	|
 | 20 	| 20 	| 41.663773 	| 1.306223683 	|
