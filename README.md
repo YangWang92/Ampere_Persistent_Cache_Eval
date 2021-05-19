@@ -1,6 +1,6 @@
-# Ampere Persistent Cache Eval
+# Ampere Persistent Cache Evaluation
 
-Here is an unoffical Ampere persistent L2 cache evaluation
+Here is an unofficial Ampere persistent L2 cache evaluation
 
 https://developer.download.nvidia.com/video/gputechconf/gtc/2020/presentations/s21819-optimizing-applications-for-nvidia-ampere-gpu-architecture.pdf
 
