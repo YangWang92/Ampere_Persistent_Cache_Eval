@@ -13,7 +13,7 @@ nvcc -std=c++11 main.cu -arch=sm_80 && ./a.out
 
 ## Results
 
-Warning: All tests do not lock core frequency and memory frequency.
+Warning: All tests have not locked core frequency and memory frequency.
 
 ### Baseline
 
